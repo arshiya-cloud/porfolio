@@ -1,0 +1,3 @@
+Did basics in github like 
+Setting up account,ssh key,creating respository etc
+Got a bit confused about Linux-windows cmd commamds 
