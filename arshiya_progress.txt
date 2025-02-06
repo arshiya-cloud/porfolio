@@ -1,3 +1,20 @@
+06-02-2025
 Did basics in github like 
 Setting up account,ssh key,creating respository etc
-Got a bit confused about Linux-windows cmd commamds 
+Got a bit confused about Linux-windows cmd commamds
+
+07-02-2025
+
+What I Learned:
+- Git commands: init, add, commit, push
+- HTML & CSS basics
+- Fixing Git errors
+
+What I Implemented:
+- Created portfolio page
+- Styled with CSS
+- Linked GitHub & LinkedIn
+
+Challenges Faced:
+- 'src refspec main does not match any' → Fixed by creating main branch
+- 'failed to push some refs' → Fixed by pulling changes before pushing
